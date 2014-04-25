@@ -23,4 +23,4 @@ See test file and souce code comments for additional information
     
     
 ## Acknowledgements: 
-(saveppt2)[http://www.mathworks.com/matlabcentral/fileexchange/19322-saveppt2] is used to create MS PowerPoint files.
+[saveppt2](http://www.mathworks.com/matlabcentral/fileexchange/19322-saveppt2) is used to create MS PowerPoint files.
